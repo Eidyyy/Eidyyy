@@ -7,7 +7,7 @@ Estudante de **Engenharia de Computação** na Universidade São Francisco (USF)
 ### 🛡️ Áreas de Atuação & Interesses
 - **Cibersegurança & Operações de SOC:** Triagem e análise de logs, análise de malware, investigação de tráfego de rede (Wireshark), aplicação dos frameworks MITRE ATT&CK e Cyber Kill Chain.
 - **Identidade & Acesso (IAM):** Gestão de identidades híbridas e governança com Microsoft Entra ID e Active Directory, aplicando o princípio do menor privilégio e RBAC.
-- **Cloud & Infraestrutura:** Arquitetura de redes virtuais (VNets, NSGs), automação e governança no Microsoft Azure (rumo à certificação AZ-104).
+- **Cloud & Infraestrutura:** Arquitetura de redes virtuais (VNets, NSGs), automação e governança no Microsoft Azure.
 
 ---
 
