@@ -25,7 +25,7 @@ Estudante de **Engenharia de Computação** na Universidade São Francisco (USF)
 ### 📌 Projetos em Destaque
 
 - [☁️ **Azure Enterprise Infrastructure Simulation**](https://github.com/Eidyyy/azure-enterprise-infrastructure): Arquitetura corporativa completa em nuvem com isolamento de ambientes (DEV/QA/PROD), governança RBAC, NSGs, monitoramento proativo e plano de recuperação (DR).
-- 🎯 *(Em breve)* **Sistema de Detecção de EPI em Tempo Real:** Visão computacional embarcada em Raspberry Pi com alertas físicos e integração com nuvem.
+- 🎯  **Sistema de Detecção de EPI em Tempo Real:** Visão computacional embarcada em Raspberry Pi com alertas físicos e integração com nuvem.
 
 ---
 
